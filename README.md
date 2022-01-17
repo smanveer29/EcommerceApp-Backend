@@ -1,7 +1,11 @@
 # EcommerceApp-Backend
-First of all make sure that XAMP is intalled in your system if not then go install it.
-1. Start XAMPP Controll Pannel
-2. Start Apache Server and mysql server
-3. Then extract the project 
-4. Run command npm install
-5. then run command npm start to run the project
+Make Sure nodemon is installed on your system
+To install nodemon Run command “ npm install -g nodemon”
+XAMP is Compulsory for this backend Install XAMP on the system from this link https://www.apachefriends.org/index.html
+Start the Xamp after installation
+The start the mysql and apache server from the XAMP dialogue box
+Clone the Project from Github Repository https://github.com/smanveer29/EcommerceApp-Backend
+Package Manager used “npm”
+1.    run command “npm install”
+2.     Then run command “npm start “
+
